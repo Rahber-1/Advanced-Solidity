@@ -1,0 +1,27 @@
+## Setting up 1 EVM.
+
+==========================
+
+Chain 11155111
+
+Estimated gas price: 17.568742336 gwei
+
+Estimated total gas used for script: 924466
+
+Estimated amount required: 0.016241704952392576 ETH
+
+==========================
+
+##### sepolia
+✅  [Success] Hash: 0x97af43f93703b47a86a077a71c21dbdcc65c6626fa537761481c9775617b9c75
+Contract Address: 0xb04802c0a7fa97C7c84a160dAAE5C116Ae3A2561
+Block: 8269306
+Paid: 0.006191184777946344 ETH (711128 gas * 8.706146823 gwei)
+
+✅ Sequence #1 on sepolia | Total Paid: 0.006191184777946344 ETH (711128 gas * avg 8.706146823 gwei)
+
+
+price of BTC/USD 9443201072545 since BTC has 8 decimals so the price is 94432.01072545
+price of ETH/USD 177161670000 NOTE:ETH HAS 18 decimals BUT CHAINLINK RETURNS PRICE WITH 8 decimals. that is why 1771.61670000 
+price of GBP/USD 1.33915000 decimals 8
+                                                                                                        
