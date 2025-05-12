@@ -1,6 +1,9 @@
 [profile.default]
+SEPOLIA_RPC_URL="${SEPOLIA_RPC_URL}"
+PRIVATE_KEY="${PRIVATE_KEY}"
 src = "src"
 out = "out"
 libs = ["lib"]
+remappings=["@openzeppelin/contracts/=lib/openzeppelin/"]
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
